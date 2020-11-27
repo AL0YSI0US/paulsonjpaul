@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**paulsonjpaul/paulsonjpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Paulson J Paul, a self-taught to-be web developer and UI/UX designer. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Markdown Dungeons repository by Make Contributions and also my personal portfolio
+- 🌱 I’m currently learning JavaScript
+- 🤔 I’m looking for help with making a carousel
+- 💬 Ask me about HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Hobbies:**
+
+- Coding
+- Contributing to open source
+- Watching YouTube videos
+- Reading
+
+**Me online:**
+
+[CodePen](https://codepen.io/paulsonjpaul) | [freeCodeCamp](https://www.freecodecamp.org/paulsonjpaul)
+
