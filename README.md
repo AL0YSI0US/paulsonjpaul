@@ -15,6 +15,8 @@ I am Paulson J Paul, a self-taught to-be web developer and UI/UX designer. I am 
 - Reading
 - Watching SpiderMan movies
 
+**[Checkout my Portfolio Website!!!](https://paulsonjpaul.github.io/)**
+
 **Me online:**
 
 [CodePen](https://codepen.io/paulsonjpaul) | [freeCodeCamp](https://www.freecodecamp.org/paulsonjpaul)
