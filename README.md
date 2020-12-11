@@ -20,6 +20,6 @@ I am Paulson J Paul, a self-taught to-be web developer and UI/UX designer. I am 
 
 [CodePen](https://codepen.io/paulsonjpaul) | [freeCodeCamp](https://www.freecodecamp.org/paulsonjpaul)
 
-[![Paulson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulsonjpaul&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&custom_title=My%20GitHub%20Stats&bg_color=#ffff00)](https://github.com/anuraghazra/github-readme-stats)
+[![Paulson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulsonjpaul&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&custom_title=My%20GitHub%20Stats&bg_color=#ffffff00)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulsonjpaul&layout=compact&theme=algolia&bg_color=#ffff00)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulsonjpaul&layout=compact&theme=algolia&bg_color=#ffffff00)](https://github.com/anuraghazra/github-readme-stats)
