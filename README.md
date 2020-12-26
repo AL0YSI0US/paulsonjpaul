@@ -3,8 +3,8 @@
 I am Paulson J Paul, a self-taught to-be web developer and UI/UX designer. I am also a SpiderMan fan!
 
 - 🔭 I’m currently working on [Markdown Dungeons](https://github.com/MakeContributions/markdown-dungeon) repository by [Make Contributions](https://github.com/MakeContributions)
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about HTML & CSS
+- 🌱 I’m currently learning Frontend Libraries & Frameworks
+- 💬 Ask me about HTML, CSS, JS, Sass, jQuery & Bootstrap.
 
 **Hobbies:**
 
@@ -18,7 +18,7 @@ I am Paulson J Paul, a self-taught to-be web developer and UI/UX designer. I am 
 
 **Me online:**
 
-[CodePen](https://codepen.io/paulsonjpaul) | [freeCodeCamp](https://www.freecodecamp.org/paulsonjpaul)
+[CodePen](https://codepen.io/paulsonjpaul) | [freeCodeCamp](https://www.freecodecamp.org/paulsonjpaul) | [CodinGame](https://www.codingame.com/profile/b4860a07f818f68c3ba67c29aa8b175e1594014)
 
 [![Paulson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulsonjpaul&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&custom_title=My%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
