@@ -1,8 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-<img src="Coding _Monochromatic.svg" alt="Illustration" width="700" />
-
------------------------------------------
+<img src="Coding _Monochromatic.svg" alt="Illustration" width="600" align="right" />
 
 I am Paulson J Paul, a self-taught to-be web developer and UI/UX designer. I am also a SpiderMan fan!
 
@@ -12,7 +10,7 @@ I am Paulson J Paul, a self-taught to-be web developer and UI/UX designer. I am 
 
 -----------------------------------------
 
-## Hobbies:
+### Hobbies:
 
 - Coding
 - Contributing to open source
@@ -27,7 +25,7 @@ I am Paulson J Paul, a self-taught to-be web developer and UI/UX designer. I am 
 
 -----------------------------------------
 
-## Me online:
+### Me online:
 
  | [CodePen](https://codepen.io/paulsonjpaul) | 
 |---|
@@ -40,9 +38,9 @@ I am Paulson J Paul, a self-taught to-be web developer and UI/UX designer. I am 
 
 -----------------------------------------
 
-## My Stats So Far:
+### My Stats So Far:
 
 [![Paulson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulsonjpaul&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&custom_title=My%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulsonjpaul&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
-> Credits: Thanks to [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for providing GitHub statistics and thanks to [ManyPixels](https://www.manypixels.co/gallery) for providing royalty-free illustrations
+> **Credits:** Thanks to [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for providing GitHub statistics and thanks to [ManyPixels](https://www.manypixels.co/gallery) for providing royalty-free illustrations
