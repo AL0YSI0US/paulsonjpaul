@@ -8,7 +8,7 @@ I am Paulson J Paul, a self-taught to-be web developer 👨‍💻 and UI/UX des
 
 -----------------------------------------
 
-### Hobbies:
+### Hobbies 😆:
 
 - Coding 👨‍💻
 - Contributing to open source ✌️
