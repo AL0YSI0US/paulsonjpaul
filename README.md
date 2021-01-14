@@ -38,5 +38,7 @@ I am Paulson J Paul, a self-taught to-be web developer 👨‍💻 and UI/UX des
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulsonjpaul&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-
-> 💖 **Credits:** Thanks to [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for providing GitHub statistics and thanks to [ManyPixels](https://www.manypixels.co/gallery) for providing royalty-free illustrations
+> 💖 **Credits:**
+> - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for providing GitHub statistics 
+> - [ManyPixels](https://www.manypixels.co/gallery) for providing royalty-free illustrations
+> - [Shields.io](https://shields.io/) for the badges
