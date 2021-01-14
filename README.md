@@ -5,8 +5,8 @@
 I am Paulson J Paul, a self-taught to-be web developer and UI/UX designer. I am also a SpiderMan fan!
 
 - 🔭 I’m currently working on [Markdown Dungeons](https://github.com/MakeContributions/markdown-dungeon) repository by [Make Contributions](https://github.com/MakeContributions)
-- 🌱 I’m currently learning React & Redux
-- 💬 Ask me about HTML, CSS, JS, Sass, jQuery, Bootstrap, React or Redux (basics).
+- 🌱 I’m currently learning React & Redux Advanced Topics.
+- 💬 Ask me about HTML, CSS, JS, Sass, jQuery, Bootstrap, React or Redux.
 
 -----------------------------------------
 
