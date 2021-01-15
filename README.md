@@ -18,11 +18,15 @@ I am Paulson J Paul, a self-taught to-be web developer 👨‍💻 and UI/UX des
 
 -----------------------------------------
 
-### Languages & Tools 🛠️:
+### Languages I Know 💻:
 
 ![HTML5](https://img.shields.io/badge/HTML5-Expert-d1d1d1?style=for-the-badge&logo=HTML5&labelColor=E34F26&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-Nearly_Expert-d1d1d1?style=for-the-badge&logo=CSS3&labelColor=1572B6&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-Expert-d1d1d1?style=for-the-badge&logo=Sass&labelColor=CC6699&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-d1d1d1?style=for-the-badge&logo=JavaScript&labelColor=F7DF1E&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-Nearly_Intermediate-d1d1d1?style=for-the-badge&logo=Bootstrap&labelColor=7952B3&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-Nearly_Intermediate-d1d1d1?style=for-the-badge&logo=jQuery&labelColor=0769AD&logoColor=white) ![React](https://img.shields.io/badge/React-Expert-d1d1d1?style=for-the-badge&logo=React&labelColor=61DAFB&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-Nearly_Intermediate-d1d1d1?style=for-the-badge&logo=Redux&labelColor=764ABC&logoColor=white)
 
 -----------------------------------------
+
+### Tools & Websites I Use 🛠️:
+
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Code%20Editor-d1d1d1?style=for-the-badge&logo=Visual-Studio-Code&labelColor=007ACC&logoColor=white)](https://code.visualstudio.com/) [![Figma](https://img.shields.io/badge/Figma-Design%20Prototypes-d1d1d1?style=for-the-badge&logo=Figma&labelColor=F24E1E&logoColor=white)](https://www.figma.com/) [![Pexels](https://img.shields.io/badge/Pexels-Free%20HD%20Images-d1d1d1?style=for-the-badge&logo=Pexels&labelColor=05A081&logoColor=white)](https://www.pexels.com/) [![Git](https://img.shields.io/badge/Git-Version%20Control-d1d1d1?style=for-the-badge&logo=Git&labelColor=F05032&logoColor=white)](https://git-scm.com/) [![Font Awesome](https://img.shields.io/badge/Font%20Awesome-Icons-d1d1d1?style=for-the-badge&logo=Font-Awesome&labelColor=339AF0&logoColor=white)](https://fontawesome.com/)
 
 ### Find Me Here 🧐:
 
