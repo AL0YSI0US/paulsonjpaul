@@ -2,7 +2,7 @@
 
 <img src="Coding _Monochromatic.svg" alt="Illustration" width="600" align="right" />
 
-I am Paulson J Paul, a self-taught to-be web developer 👨‍💻 and UI/UX designer 🎨. I am also a SpiderMan fan! 🕷️🕸️
+I am Paulson J Paul, a self-taught programmer 👨‍💻 looking forward to becoming a Web Developer 🌐 and UI/UX designer 🎨. I am also a SpiderMan fan! 🕷️🕸️
 
 > "Programming isn't about what you know; it's about what you can figure out" - Chris Pine
 
