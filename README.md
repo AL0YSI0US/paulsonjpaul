@@ -30,7 +30,7 @@ I am Paulson J Paul, a self-taught programmer 👨‍💻 looking forward to bec
 
 ### Find Me Here 🧐:
 
-[![Website](https://img.shields.io/badge/Website-paulsonjpaul.github.io-d1d1d1?style=for-the-badge&labelColor=blueviolet)](https://www.paulsonjpaul.github.io) [![CodePen](https://img.shields.io/badge/CodePen-paulsonjpaul-d1d1d1?style=for-the-badge&logo=CodePen&labelColor=black&logoColor=white)](https://codepen.io/paulsonjpaul) [![CodingGame](https://img.shields.io/badge/CodinGame-paulsonjpaul-d1d1d1?style=for-the-badge&labelColor=F2BB13)](https://www.codingame.com/profile/b4860a07f818f68c3ba67c29aa8b175e1594014) [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-paulsonjpaul-d1d1d1?style=for-the-badge&logo=freeCodeCamp&labelColor=0A0A23&logoColor=white)](https://www.freecodecamp.org/paulsonjpaul)
+[![Website](https://img.shields.io/badge/Website-paulsonjpaul.github.io-d1d1d1?style=for-the-badge&labelColor=blueviolet)](https://www.paulsonjpaul.github.io) [![CodePen](https://img.shields.io/badge/CodePen-paulsonjpaul-d1d1d1?style=for-the-badge&logo=CodePen&labelColor=black&logoColor=white)](https://codepen.io/paulsonjpaul) [![CodingGame](https://img.shields.io/badge/CodinGame-paulsonjpaul-d1d1d1?style=for-the-badge&labelColor=F2BB13)](https://www.codingame.com/profile/b4860a07f818f68c3ba67c29aa8b175e1594014) [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-paulsonjpaul-d1d1d1?style=for-the-badge&logo=freeCodeCamp&labelColor=0A0A23&logoColor=white)](https://www.freecodecamp.org/paulsonjpaul) [![repl.it](https://img.shields.io/badge/repl.it-paulsonjpaul-d1d1d1?style=for-the-badge&logo=repl.it&labelColor=667881&logoColor=white)](https://repl.it/@paulsonjpaul)
 
 -----------------------------------------
 
